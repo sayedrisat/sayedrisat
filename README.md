@@ -1,11 +1,7 @@
-<!-- Typing animation using GitHub Readme Typing SVG -->
+<!-- Typing effect with blinking cursor using Readme Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Sayed+Risat+%F0%9F%91%8B;Digital+Marketing+Strategist+%F0%9F%92%BC;Growth+Hacker+%F0%9F%94%A5;Content+That+Converts+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sayed+Risat;Digital+Marketing+Strategist;SEO+%7C+Funnels+%7C+Social+Media+%7C+Analytics;Let's+Grow+Your+Brand+Together" alt="Typing animation">
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200" alt="Digital Marketing Vibes" />
-</p>
 
 ---
 
