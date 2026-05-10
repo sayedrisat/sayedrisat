@@ -24,7 +24,7 @@
 ```ts
 const risat = {
   name     : "Sayed Risat",
-  location : "Chattogram, Bangladesh 🇧🇩",
+  location : "Chattogram, Bangladesh",
   role     : "Full Stack Developer & Digital Strategist",
   ventures : ["Lit Fusion (Agency)", "AUREM (Clothing)", "Skivia (Creative Studio)"],
   stack    : ["Next.js", "TypeScript", "Node.js", "Python", "MongoDB", "Redis", "Docker"],
