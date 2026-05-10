@@ -21,17 +21,14 @@
 
 ## 🧠 About Me
 
-```ts
-const risat = {
-  name     : "Sayed Risat",
-  location : "Chattogram, Bangladesh",
-  role     : "Full Stack Developer & Digital Strategist",
-  ventures : ["Lit Fusion (Agency)", "AUREM (Clothing)", "Skivia (Creative Studio)"],
-  stack    : ["Next.js", "TypeScript", "Node.js", "Python", "MongoDB", "Redis", "Docker"],
-  learning : ["ML Pipelines", "System Design", "AWS", "LangChain", "Microservices"],
-  funFact  : "Started as a marketer. Realized the best tools don't exist. Started building them.",
-};
-```
+👋 Hey, I'm **Sayed Risat** — a Full Stack Developer & Digital Strategist from **Chattogram, Bangladesh 🇧🇩**
+
+I build full-stack products, automation tools, and SaaS apps — mostly for my own ventures and clients at **Lit Fusion**. I started out running Meta Ads and building marketing funnels, then realized the best tools didn't exist yet. So I started building them myself.
+
+🏢 **Ventures** &nbsp;→&nbsp; Lit Fusion (Agency) · AUREM (Clothing) · Skivia (Creative Studio)  
+🧰 **Core Stack** &nbsp;→&nbsp; Next.js · TypeScript · Node.js · Python · MongoDB · Redis · Docker  
+📖 **Learning** &nbsp;&nbsp;&nbsp;→&nbsp; ML Pipelines · System Design · AWS · LangChain · Microservices  
+⚡ **Fun Fact** &nbsp;&nbsp;&nbsp;→&nbsp; Started as a marketer. Realized the best tools don't exist. Started building them.
 
 ---
 
