@@ -262,7 +262,7 @@ const risat = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in)
 
 </div>
 
