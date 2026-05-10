@@ -3,63 +3,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sayed+Risat;Digital+Marketing+Strategist;SEO+%7C+Funnels+%7C+Social+Media+%7C+Analytics;Let's+Grow+Your+Brand+Together" alt="Typing animation">
 </h1>
 
----
+# 💫 About Me:
+<br>I'm currently working on Building full-stack web apps and internal tools for my agency GrowMark from custom dashboards to automation scripts that power real marketing workflows.<br>I'm looking to collaborate on Full-stack projects (Next.js, React, Node.js), SaaS tools, browser extensions, and dev tools built for marketers or small businesses.<br>I'm looking for help with Scaling ML pipelines, advanced TypeScript patterns, and system design for production-level applications.<br>I'm currently learning Next.js · TypeScript · Redux · Python for Machine Learning (Scikit-learn, Pandas, NumPy) · CI/CD & deployment workflows.<br>Ask me about Full-stack development, building Chrome extensions, shipping projects solo, or how I blend dev skills with performance marketing to build smarter products.<br>Fun fact I started as a digital marketer — ran Meta Ads, built funnels, managed brands — then realized the best tools don't exist yet, so I started building them myself.
 
-## 🌟 About Me
 
-🎯 Digital Marketer focused on ROI-driven strategies  
-🧠 Obsessed with copywriting, conversions, and data  
-🚀 I build brands through funnels, SEO, and bold storytelling  
-🎨 Creative meets performance. Always testing. Always optimizing.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1364854885677400106) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/risatseo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayed_risat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/risatseo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/risatseo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayed_risat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCjhfZ6Dz0x3-FxK6udzEu6w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayedrisat.dm@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sayedrisat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sayedrisat&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayedrisat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Tools of the Trade
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Analytics-FC4C02?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEMrush-FF6D60?style=for-the-badge&logo=semrush&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ahrefs-0A0A0A?style=for-the-badge&logo=ahrefs&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta%20Business%20Suite-316FF6?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sayedrisat&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sayedrisat&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## 📱 Social Media Strategy Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hootsuite-000000?style=for-the-badge&logo=hootsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Later-02B2F2?style=for-the-badge&logo=later&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Buffer-168EEA?style=for-the-badge&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</p>
-
----
-
-## 💬 Let’s Connect
-
-<p align="center">
-  <a href="[https://sayedrisat.github.io/portfolio/](https://sayed-risat-portfolio.pages.dev/)"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/risatseo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/sayed_risat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="sayedrisat.dm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/sayed_risat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://facebook.com/risatseo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://pinterest.com/risatseo"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"></a>
-</p>
-
----
-
-<p align="center"><i>"Marketing is no longer about the stuff you make, but about the stories you tell." – Seth Godin</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=lightgray" alt="Profile Views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
