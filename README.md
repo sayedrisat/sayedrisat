@@ -71,7 +71,7 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Exploring next
 
 <p>
-  <img src="./assets/icons/openai.svg?v=1" width="74" alt="OpenAI"> <img src="./assets/icons/langchain.svg?v=1" width="74" alt="LangChain"> <img src="./assets/icons/tensorflow.svg?v=5" width="74" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg?v=5" width="74" alt="PyTorch">
+  <img src="./assets/icons/langchain.svg?v=1" width="74" alt="LangChain"> <img src="./assets/icons/rag.svg?v=1" width="74" alt="RAG"> <img src="./assets/icons/embeddings.svg?v=1" width="74" alt="Embeddings"> <img src="./assets/icons/vector-db.svg?v=1" width="74" alt="Vector Database"> <img src="./assets/icons/tool-calling.svg?v=1" width="74" alt="Tool Calling">
 </p>
 
 `Next.js` · `TypeScript` · `Node.js` · `Java` · `MongoDB` · `Redis` · `Docker`
