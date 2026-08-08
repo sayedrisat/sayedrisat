@@ -72,7 +72,7 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Backend — currently building
 
 <p>
-  <img src="./assets/icons/nodejs.svg?v=3" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=3" width="74" alt="Express"> <img src="./assets/icons/java.svg?v=3" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=3" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=3" width="74" alt="Redis">
+  <img src="./assets/icons/nodejs.svg?v=3" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=3" width="74" alt="Express"> <img src="./assets/icons/java.svg?v=4" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=3" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=3" width="74" alt="Redis">
 </p>
 
 ### Cloud, DevOps & Tools
