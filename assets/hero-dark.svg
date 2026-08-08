@@ -9,7 +9,6 @@
       .wave { stroke-dasharray: 180 34; animation: flow 5s linear infinite; }
       .orb-a { animation: floatA 5s ease-in-out infinite alternate; }
       .orb-b { animation: floatB 7s ease-in-out infinite alternate; }
-      .monogram { transform-origin: 1022px 182px; animation: pulse 2.8s ease-in-out infinite; }
       .cursor { animation: blink 1s steps(1) infinite; }
       .dot-1 { animation: dot 1.5s ease-in-out infinite; }
       .dot-2 { animation: dot 1.5s .25s ease-in-out infinite; }
@@ -17,7 +16,6 @@
       @keyframes flow { to { stroke-dashoffset: -428; } }
       @keyframes floatA { to { transform: translate(-28px, 24px) scale(1.08); } }
       @keyframes floatB { to { transform: translate(32px, -20px) scale(.92); } }
-      @keyframes pulse { 50% { transform: scale(1.045); opacity: .88; } }
       @keyframes blink { 50% { opacity: 0; } }
       @keyframes dot { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
     </style>
@@ -31,6 +29,5 @@
   <text x="76" y="225" fill="#94a3b8" font-family="Arial, sans-serif" font-size="25">Full Stack Developer  •  Digital Strategist</text>
   <rect x="76" y="264" width="425" height="38" rx="19" fill="#111c31" stroke="#24344f"/>
   <text x="96" y="289" fill="#10b981" font-family="monospace" font-size="17">frontend ✓  |  backend: building...</text>
-  <g class="monogram" transform="translate(950 110)"><rect width="145" height="145" rx="26" fill="#0a101f" stroke="url(#accent)" stroke-width="3"/><text x="72.5" y="91" text-anchor="middle" fill="url(#accent)" font-family="Arial" font-weight="700" font-size="50">SR</text></g>
   <circle class="dot-1" cx="1100" cy="292" r="4" fill="#22d3ee"/><circle class="dot-2" cx="1120" cy="292" r="4" fill="#a78bfa"/><circle class="dot-3" cx="1140" cy="292" r="4" fill="#10b981"/>
 </svg>

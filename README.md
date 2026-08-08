@@ -66,25 +66,25 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux&perline=10" alt="Frontend skills">
+  <img src="./assets/icons/html.svg" width="58" alt="HTML"> <img src="./assets/icons/css.svg" width="58" alt="CSS"> <img src="./assets/icons/sass.svg" width="58" alt="Sass"> <img src="./assets/icons/tailwind.svg" width="58" alt="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg" width="58" alt="Bootstrap"> <img src="./assets/icons/javascript.svg" width="58" alt="JavaScript"> <img src="./assets/icons/typescript.svg" width="58" alt="TypeScript"> <img src="./assets/icons/react.svg" width="58" alt="React"> <img src="./assets/icons/nextjs.svg" width="58" alt="Next.js"> <img src="./assets/icons/redux.svg" width="58" alt="Redux">
 </p>
 
 ### Backend — currently building
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,redis&perline=10" alt="Backend skills">
+  <img src="./assets/icons/nodejs.svg" width="58" alt="Node.js"> <img src="./assets/icons/express.svg" width="58" alt="Express"> <img src="./assets/icons/python.svg" width="58" alt="Python"> <img src="./assets/icons/mongodb.svg" width="58" alt="MongoDB"> <img src="./assets/icons/redis.svg" width="58" alt="Redis">
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,figma&perline=10" alt="Cloud, DevOps, and tools">
+  <img src="./assets/icons/git.svg" width="58" alt="Git"> <img src="./assets/icons/github.svg" width="58" alt="GitHub"> <img src="./assets/icons/docker.svg" width="58" alt="Docker"> <img src="./assets/icons/aws.svg" width="58" alt="AWS"> <img src="./assets/icons/linux.svg" width="58" alt="Linux"> <img src="./assets/icons/vscode.svg" width="58" alt="VS Code"> <img src="./assets/icons/postman.svg" width="58" alt="Postman"> <img src="./assets/icons/figma.svg" width="58" alt="Figma">
 </p>
 
 ### Exploring next
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10" alt="AI and machine learning tools">
+  <img src="./assets/icons/tensorflow.svg" width="58" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg" width="58" alt="PyTorch">
 </p>
 
 `Next.js` · `TypeScript` · `Node.js` · `Python` · `MongoDB` · `Redis` · `Docker`
