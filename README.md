@@ -53,25 +53,25 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Frontend
 
 <p>
-  <img src="./assets/icons/html.svg?v=5" width="74" alt="HTML"> <img src="./assets/icons/css.svg?v=5" width="74" alt="CSS"> <img src="./assets/icons/sass.svg?v=5" width="74" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=5" width="74" alt="Tailwind CSS"> <img src="./assets/icons/javascript.svg?v=5" width="74" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=5" width="74" alt="TypeScript"> <img src="./assets/icons/react.svg?v=5" width="74" alt="React"> <img src="./assets/icons/nextjs.svg?v=5" width="74" alt="Next.js"> <img src="./assets/icons/redux.svg?v=5" width="74" alt="Redux">
+<img src="./assets/icons/html.svg?v=6" width="74" alt="HTML"> <img src="./assets/icons/css.svg?v=6" width="74" alt="CSS"> <img src="./assets/icons/sass.svg?v=6" width="74" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=6" width="74" alt="Tailwind CSS"> <img src="./assets/icons/javascript.svg?v=6" width="74" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=6" width="74" alt="TypeScript"> <img src="./assets/icons/react.svg?v=6" width="74" alt="React"> <img src="./assets/icons/nextjs.svg?v=6" width="74" alt="Next.js"> <img src="./assets/icons/redux.svg?v=6" width="74" alt="Redux">
 </p>
 
 ### Backend — currently building
 
 <p>
-  <img src="./assets/icons/nodejs.svg?v=5" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=5" width="74" alt="Express"> <img src="./assets/icons/java-coffee.svg?v=1" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=5" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=5" width="74" alt="Redis">
+  <img src="./assets/icons/nodejs.svg?v=6" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=6" width="74" alt="Express"> <img src="./assets/icons/java-coffee.svg?v=6" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=6" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=6" width="74" alt="Redis">
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="./assets/icons/git.svg?v=5" width="74" alt="Git"> <img src="./assets/icons/github.svg?v=5" width="74" alt="GitHub"> <img src="./assets/icons/docker.svg?v=5" width="74" alt="Docker"> <img src="./assets/icons/aws.svg?v=5" width="74" alt="AWS"> <img src="./assets/icons/linux.svg?v=5" width="74" alt="Linux"> <img src="./assets/icons/vscode.svg?v=5" width="74" alt="VS Code"> <img src="./assets/icons/postman.svg?v=5" width="74" alt="Postman"> <img src="./assets/icons/figma.svg?v=5" width="74" alt="Figma">
+  <img src="./assets/icons/git.svg?v=6" width="74" alt="Git"> <img src="./assets/icons/github.svg?v=6" width="74" alt="GitHub"> <img src="./assets/icons/docker.svg?v=6" width="74" alt="Docker"> <img src="./assets/icons/aws.svg?v=6" width="74" alt="AWS"> <img src="./assets/icons/linux.svg?v=6" width="74" alt="Linux"> <img src="./assets/icons/vscode.svg?v=6" width="74" alt="VS Code"> <img src="./assets/icons/postman.svg?v=6" width="74" alt="Postman"> <img src="./assets/icons/figma.svg?v=6" width="74" alt="Figma">
 </p>
 
 ### Exploring next
 
 <p>
-  <img src="./assets/icons/langchain.svg?v=1" width="74" alt="LangChain"> <img src="./assets/icons/rag.svg?v=1" width="74" alt="RAG"> <img src="./assets/icons/embeddings.svg?v=1" width="74" alt="Embeddings"> <img src="./assets/icons/vector-db.svg?v=1" width="74" alt="Vector Database"> <img src="./assets/icons/tool-calling.svg?v=1" width="74" alt="Tool Calling">
+  <img src="./assets/icons/langchain.svg?v=6" width="74" alt="LangChain"> <img src="./assets/icons/rag.svg?v=6" width="74" alt="RAG"> <img src="./assets/icons/embeddings.svg?v=6" width="74" alt="Embeddings"> <img src="./assets/icons/vector-db.svg?v=6" width="74" alt="Vector Database"> <img src="./assets/icons/tool-calling.svg?v=6" width="74" alt="Tool Calling">
 </p>
 
 `Next.js` · `TypeScript` · `Node.js` · `Java` · `MongoDB` · `Redis` · `Docker`
@@ -111,19 +111,6 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ---
 
 ## `> github --stats`
-
-#### Featured repositories
-
-<div align="center">
-  <a href="https://github.com/sayedrisat/bnscript">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedrisat&repo=bnscript&hide_border=false&border_color=22D3EE&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=00000000" alt="bnscript repository">
-  </a>
-  <a href="https://github.com/sayedrisat/SnipDesk">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedrisat&repo=SnipDesk&hide_border=false&border_color=A78BFA&title_color=A78BFA&icon_color=22D3EE&text_color=94A3B8&bg_color=00000000" alt="SnipDesk repository">
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <picture>
