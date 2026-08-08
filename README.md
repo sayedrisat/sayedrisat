@@ -66,25 +66,25 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Frontend
 
 <p>
-  <img src="./assets/icons/html.svg" width="58" alt="HTML"> <img src="./assets/icons/css.svg" width="58" alt="CSS"> <img src="./assets/icons/sass.svg" width="58" alt="Sass"> <img src="./assets/icons/tailwind.svg" width="58" alt="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg" width="58" alt="Bootstrap"> <img src="./assets/icons/javascript.svg" width="58" alt="JavaScript"> <img src="./assets/icons/typescript.svg" width="58" alt="TypeScript"> <img src="./assets/icons/react.svg" width="58" alt="React"> <img src="./assets/icons/nextjs.svg" width="58" alt="Next.js"> <img src="./assets/icons/redux.svg" width="58" alt="Redux">
+  <img src="./assets/icons/html.svg?v=2" width="58" alt="HTML"> <img src="./assets/icons/css.svg?v=2" width="58" alt="CSS"> <img src="./assets/icons/sass.svg?v=2" width="58" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=2" width="58" alt="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg?v=2" width="58" alt="Bootstrap"> <img src="./assets/icons/javascript.svg?v=2" width="58" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=2" width="58" alt="TypeScript"> <img src="./assets/icons/react.svg?v=2" width="58" alt="React"> <img src="./assets/icons/nextjs.svg?v=2" width="58" alt="Next.js"> <img src="./assets/icons/redux.svg?v=2" width="58" alt="Redux">
 </p>
 
 ### Backend — currently building
 
 <p>
-  <img src="./assets/icons/nodejs.svg" width="58" alt="Node.js"> <img src="./assets/icons/express.svg" width="58" alt="Express"> <img src="./assets/icons/python.svg" width="58" alt="Python"> <img src="./assets/icons/mongodb.svg" width="58" alt="MongoDB"> <img src="./assets/icons/redis.svg" width="58" alt="Redis">
+  <img src="./assets/icons/nodejs.svg?v=2" width="58" alt="Node.js"> <img src="./assets/icons/express.svg?v=2" width="58" alt="Express"> <img src="./assets/icons/python.svg?v=2" width="58" alt="Python"> <img src="./assets/icons/mongodb.svg?v=2" width="58" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=2" width="58" alt="Redis">
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="./assets/icons/git.svg" width="58" alt="Git"> <img src="./assets/icons/github.svg" width="58" alt="GitHub"> <img src="./assets/icons/docker.svg" width="58" alt="Docker"> <img src="./assets/icons/aws.svg" width="58" alt="AWS"> <img src="./assets/icons/linux.svg" width="58" alt="Linux"> <img src="./assets/icons/vscode.svg" width="58" alt="VS Code"> <img src="./assets/icons/postman.svg" width="58" alt="Postman"> <img src="./assets/icons/figma.svg" width="58" alt="Figma">
+  <img src="./assets/icons/git.svg?v=2" width="58" alt="Git"> <img src="./assets/icons/github.svg?v=2" width="58" alt="GitHub"> <img src="./assets/icons/docker.svg?v=2" width="58" alt="Docker"> <img src="./assets/icons/aws.svg?v=2" width="58" alt="AWS"> <img src="./assets/icons/linux.svg?v=2" width="58" alt="Linux"> <img src="./assets/icons/vscode.svg?v=2" width="58" alt="VS Code"> <img src="./assets/icons/postman.svg?v=2" width="58" alt="Postman"> <img src="./assets/icons/figma.svg?v=2" width="58" alt="Figma">
 </p>
 
 ### Exploring next
 
 <p>
-  <img src="./assets/icons/tensorflow.svg" width="58" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg" width="58" alt="PyTorch">
+  <img src="./assets/icons/tensorflow.svg?v=2" width="58" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg?v=2" width="58" alt="PyTorch">
 </p>
 
 `Next.js` · `TypeScript` · `Node.js` · `Python` · `MongoDB` · `Redis` · `Docker`
