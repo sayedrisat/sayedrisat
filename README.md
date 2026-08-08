@@ -66,28 +66,28 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Frontend
 
 <p>
-  <img src="./assets/icons/html.svg?v=2" width="58" alt="HTML"> <img src="./assets/icons/css.svg?v=2" width="58" alt="CSS"> <img src="./assets/icons/sass.svg?v=2" width="58" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=2" width="58" alt="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg?v=2" width="58" alt="Bootstrap"> <img src="./assets/icons/javascript.svg?v=2" width="58" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=2" width="58" alt="TypeScript"> <img src="./assets/icons/react.svg?v=2" width="58" alt="React"> <img src="./assets/icons/nextjs.svg?v=2" width="58" alt="Next.js"> <img src="./assets/icons/redux.svg?v=2" width="58" alt="Redux">
+  <img src="./assets/icons/html.svg?v=3" width="74" alt="HTML"> <img src="./assets/icons/css.svg?v=3" width="74" alt="CSS"> <img src="./assets/icons/sass.svg?v=3" width="74" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=3" width="74" alt="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg?v=3" width="74" alt="Bootstrap"> <img src="./assets/icons/javascript.svg?v=3" width="74" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=3" width="74" alt="TypeScript"> <img src="./assets/icons/react.svg?v=3" width="74" alt="React"> <img src="./assets/icons/nextjs.svg?v=3" width="74" alt="Next.js"> <img src="./assets/icons/redux.svg?v=3" width="74" alt="Redux">
 </p>
 
 ### Backend — currently building
 
 <p>
-  <img src="./assets/icons/nodejs.svg?v=2" width="58" alt="Node.js"> <img src="./assets/icons/express.svg?v=2" width="58" alt="Express"> <img src="./assets/icons/python.svg?v=2" width="58" alt="Python"> <img src="./assets/icons/mongodb.svg?v=2" width="58" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=2" width="58" alt="Redis">
+  <img src="./assets/icons/nodejs.svg?v=3" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=3" width="74" alt="Express"> <img src="./assets/icons/java.svg?v=3" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=3" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=3" width="74" alt="Redis">
 </p>
 
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="./assets/icons/git.svg?v=2" width="58" alt="Git"> <img src="./assets/icons/github.svg?v=2" width="58" alt="GitHub"> <img src="./assets/icons/docker.svg?v=2" width="58" alt="Docker"> <img src="./assets/icons/aws.svg?v=2" width="58" alt="AWS"> <img src="./assets/icons/linux.svg?v=2" width="58" alt="Linux"> <img src="./assets/icons/vscode.svg?v=2" width="58" alt="VS Code"> <img src="./assets/icons/postman.svg?v=2" width="58" alt="Postman"> <img src="./assets/icons/figma.svg?v=2" width="58" alt="Figma">
+  <img src="./assets/icons/git.svg?v=3" width="74" alt="Git"> <img src="./assets/icons/github.svg?v=3" width="74" alt="GitHub"> <img src="./assets/icons/docker.svg?v=3" width="74" alt="Docker"> <img src="./assets/icons/aws.svg?v=3" width="74" alt="AWS"> <img src="./assets/icons/linux.svg?v=3" width="74" alt="Linux"> <img src="./assets/icons/vscode.svg?v=3" width="74" alt="VS Code"> <img src="./assets/icons/postman.svg?v=3" width="74" alt="Postman"> <img src="./assets/icons/figma.svg?v=3" width="74" alt="Figma">
 </p>
 
 ### Exploring next
 
 <p>
-  <img src="./assets/icons/tensorflow.svg?v=2" width="58" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg?v=2" width="58" alt="PyTorch">
+  <img src="./assets/icons/tensorflow.svg?v=3" width="74" alt="TensorFlow"> <img src="./assets/icons/pytorch.svg?v=3" width="74" alt="PyTorch">
 </p>
 
-`Next.js` · `TypeScript` · `Node.js` · `Python` · `MongoDB` · `Redis` · `Docker`
+`Next.js` · `TypeScript` · `Node.js` · `Java` · `MongoDB` · `Redis` · `Docker`
 
 ---
 
@@ -111,6 +111,19 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ---
 
 ## `> github --stats`
+
+### Featured repositories
+
+<div align="center">
+  <a href="https://github.com/sayedrisat/bnscript">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedrisat&repo=bnscript&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="bnscript repository">
+  </a>
+  <a href="https://github.com/sayedrisat/SnipDesk">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedrisat&repo=SnipDesk&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="SnipDesk repository">
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
@@ -143,6 +156,11 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ## `> contact --me`
 
 I'm open to meaningful collaborations, full-stack projects, automation work, and open-source opportunities.
+
+<p align="center">
+  <a href="https://linkedin.com/in/risatseo"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:sayedrisat.dm@gmail.com"><img src="https://img.shields.io/badge/Send_a_message-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"></a>
+</p>
 
 **Built with intent. Shipped with purpose.**<br>
 `Chattogram, Bangladesh 🇧🇩`
