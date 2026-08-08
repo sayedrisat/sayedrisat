@@ -112,16 +112,8 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 
 ## `> github --stats`
 
-<p align="center">
-  <img width="100%" src="./assets/stats-header.svg?v=1" alt="Animated GitHub stats header">
-</p>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sayedrisat&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
-    <img width="100%" src="https://streak-stats.demolab.com/?user=sayedrisat&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8" alt="Sayed Risat's GitHub streak">
-  </picture>
-  <img width="100%" src="./assets/stats-divider.svg?v=1" alt="">
+  <img width="100%" src="./assets/streak-animated.svg?v=1" alt="Animated Sayed Risat GitHub streak">
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sayedrisat&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F">
