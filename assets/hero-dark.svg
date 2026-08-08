@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sayed Risat</title>
+  <desc id="desc">Full Stack Developer and Digital Strategist</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#11162c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="15"/></filter>
+    <style>
+      .wave { stroke-dasharray: 180 34; animation: flow 5s linear infinite; }
+      .orb-a { animation: floatA 5s ease-in-out infinite alternate; }
+      .orb-b { animation: floatB 7s ease-in-out infinite alternate; }
+      .monogram { transform-origin: 1022px 182px; animation: pulse 2.8s ease-in-out infinite; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .dot-1 { animation: dot 1.5s ease-in-out infinite; }
+      .dot-2 { animation: dot 1.5s .25s ease-in-out infinite; }
+      .dot-3 { animation: dot 1.5s .5s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -428; } }
+      @keyframes floatA { to { transform: translate(-28px, 24px) scale(1.08); } }
+      @keyframes floatB { to { transform: translate(32px, -20px) scale(.92); } }
+      @keyframes pulse { 50% { transform: scale(1.045); opacity: .88; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes dot { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle class="orb-a" cx="1050" cy="70" r="130" fill="#22d3ee" opacity=".10" filter="url(#glow)"/>
+  <circle class="orb-b" cx="975" cy="300" r="160" fill="#a78bfa" opacity=".10" filter="url(#glow)"/>
+  <path class="wave" d="M0 318 C230 250 350 370 610 292 S940 245 1200 312" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65"/>
+  <text x="76" y="94" fill="#22d3ee" font-family="monospace" font-size="22">&gt; hello_world<tspan class="cursor">_</tspan></text>
+  <text x="72" y="176" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="700" font-size="62">Sayed Risat</text>
+  <text x="76" y="225" fill="#94a3b8" font-family="Arial, sans-serif" font-size="25">Full Stack Developer  •  Digital Strategist</text>
+  <rect x="76" y="264" width="425" height="38" rx="19" fill="#111c31" stroke="#24344f"/>
+  <text x="96" y="289" fill="#10b981" font-family="monospace" font-size="17">frontend ✓  |  backend: building...</text>
+  <g class="monogram" transform="translate(950 110)"><rect width="145" height="145" rx="26" fill="#0a101f" stroke="url(#accent)" stroke-width="3"/><text x="72.5" y="91" text-anchor="middle" fill="url(#accent)" font-family="Arial" font-weight="700" font-size="50">SR</text></g>
+  <circle class="dot-1" cx="1100" cy="292" r="4" fill="#22d3ee"/><circle class="dot-2" cx="1120" cy="292" r="4" fill="#a78bfa"/><circle class="dot-3" cx="1140" cy="292" r="4" fill="#10b981"/>
+</svg>
