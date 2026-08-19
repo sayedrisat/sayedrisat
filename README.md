@@ -35,7 +35,6 @@
 const sayedRisat = {
   role: "Full Stack Developer & Digital Strategist",
   location: "Chattogram, Bangladesh 🇧🇩",
-  ventures: ["Lit Fusion", "AUREM", "Skivia"],
   focus: ["Full-Stack Products", "Automation", "SaaS"],
   currentStage: "Frontend complete — backend development in progress",
   philosophy: "Build with intent. Ship with purpose.",
@@ -77,15 +76,6 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 </p> -->
 
 
-
----
-
-## `> roadmap --active`
-
-- **Backend:** Node.js, Express, MVC, REST APIs, middleware, uploads, JWT/OAuth/RBAC, WebSockets, Redis, testing, and logging
-- **Production:** Docker, CI/CD, Linux, AWS, security, observability, load balancing, and scalable stateless systems
-- **AI engineering:** LLM fundamentals, structured output, tool calling, embeddings, RAG, LangChain, and multi-agent patterns
-- **Computer science:** DSA, OOP, SOLID, design patterns, system design, and distributed-systems fundamentals
 
 ---
 
