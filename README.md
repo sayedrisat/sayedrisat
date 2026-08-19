@@ -59,22 +59,24 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Backend — currently building
 
 <p>
-  <img src="./assets/icons/nodejs.svg?v=6" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=6" width="74" alt="Express"> <img src="./assets/icons/java-coffee.svg?v=6" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=6" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=6" width="74" alt="Redis">
+  <img src="./assets/icons/nodejs.svg?v=6" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=6" width="74" alt="Express"> 
+  
+<!-- <img src="./assets/icons/java-coffee.svg?v=6" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=6" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=6" width="74" alt="Redis"> -->
 </p>
 
-### Cloud, DevOps & Tools
 
-<p>
+
+<!-- <p>
   <img src="./assets/icons/git.svg?v=6" width="74" alt="Git"> <img src="./assets/icons/github.svg?v=6" width="74" alt="GitHub"> <img src="./assets/icons/docker.svg?v=6" width="74" alt="Docker"> <img src="./assets/icons/aws.svg?v=6" width="74" alt="AWS"> <img src="./assets/icons/linux.svg?v=6" width="74" alt="Linux"> <img src="./assets/icons/vscode.svg?v=6" width="74" alt="VS Code"> <img src="./assets/icons/postman.svg?v=6" width="74" alt="Postman"> <img src="./assets/icons/figma.svg?v=6" width="74" alt="Figma">
-</p>
+</p> -->
 
-### Exploring next
 
-<p>
+
+<!-- <p>
   <img src="./assets/icons/langchain.svg?v=6" width="74" alt="LangChain"> <img src="./assets/icons/rag.svg?v=6" width="74" alt="RAG"> <img src="./assets/icons/embeddings.svg?v=6" width="74" alt="Embeddings"> <img src="./assets/icons/vector-db.svg?v=6" width="74" alt="Vector Database"> <img src="./assets/icons/tool-calling.svg?v=6" width="74" alt="Tool Calling">
-</p>
+</p> -->
 
-`Next.js` · `TypeScript` · `Node.js` · `Java` · `MongoDB` · `Redis` · `Docker`
+
 
 ---
 
@@ -91,22 +93,9 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 
 | | Focus |
 |---|---|
-| 🔨 **Working on** | Full-stack web apps and automation tools for Lit Fusion—dashboards, scrapers, and Chrome extensions |
 | ✅ **Completed** | Frontend foundation and core frontend learning roadmap |
-| ⚙️ **In progress** | Backend development with Node.js, Express, MongoDB, authentication, and APIs |
-| 🤝 **Collaborate** | Next.js/React SaaS, marketer-focused dev tools, browser extensions, and open source |
-| 📚 **Learning** | Backend engineering, system design, Docker, AWS, ML pipelines, and LangChain |
-| 💬 **Ask me about** | Full-stack development, Chrome extensions, Meta Ads funnels, or shipping solo |
-
----
-
-## `> ventures --list`
-
-| Venture | What I do |
-|---|---|
-| **Lit Fusion** | Agency work, full-stack products, marketing systems, and internal automation |
-| **AUREM** | Clothing venture |
-| **Skivia** | Creative studio |
+| 📚 **Learning** | Backend engineering |
+| 💬 **Ask me about** | Frontend development, React, Redux |
 
 ---
 
