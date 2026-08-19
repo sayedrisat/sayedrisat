@@ -52,7 +52,7 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 ### Frontend
 
 <p>
-<img src="./assets/icons/html.svg?v=6" width="74" alt="HTML"> <img src="./assets/icons/css.svg?v=6" width="74" alt="CSS"> <img src="./assets/icons/sass.svg?v=6" width="74" alt="Sass"> <img src="./assets/icons/tailwind.svg?v=6" width="74" alt="Tailwind CSS"> <img src="./assets/icons/javascript.svg?v=6" width="74" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=6" width="74" alt="TypeScript"> <img src="./assets/icons/react.svg?v=6" width="74" alt="React"> <img src="./assets/icons/nextjs.svg?v=6" width="74" alt="Next.js"> <img src="./assets/icons/redux.svg?v=6" width="74" alt="Redux">
+<img src="./assets/icons/html.svg?v=6" width="74" alt="HTML"> <img src="./assets/icons/css.svg?v=6" width="74" alt="CSS">  <img src="./assets/icons/tailwind.svg?v=6" width="74" alt="Tailwind CSS"> <img src="./assets/icons/javascript.svg?v=6" width="74" alt="JavaScript"> <img src="./assets/icons/typescript.svg?v=6" width="74" alt="TypeScript"> <img src="./assets/icons/react.svg?v=6" width="74" alt="React"> <img src="./assets/icons/redux.svg?v=6" width="74" alt="Redux">
 </p>
 
 ### Backend — currently building
@@ -60,7 +60,7 @@ I build full-stack products, automation tools, and SaaS applications—primarily
 <p>
   <img src="./assets/icons/nodejs.svg?v=6" width="74" alt="Node.js"> <img src="./assets/icons/express.svg?v=6" width="74" alt="Express"> 
   
-<!-- <img src="./assets/icons/java-coffee.svg?v=6" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=6" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=6" width="74" alt="Redis"> -->
+<!-- <img src="./assets/icons/java-coffee.svg?v=6" width="74" alt="Java"> <img src="./assets/icons/mongodb.svg?v=6" width="74" alt="MongoDB"> <img src="./assets/icons/redis.svg?v=6" width="74" alt="Redis"> <img src="./assets/icons/sass.svg?v=6" width="74" alt="Sass"> <img src="./assets/icons/nextjs.svg?v=6" width="74" alt="Next.js"> -->
 </p>
 
 
