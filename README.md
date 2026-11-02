@@ -1,60 +1,46 @@
 # Sayed Risat
 
-Software developer building TypeScript tools, backend libraries, and web applications. My work includes a programming-language compiler, authentication primitives, offline synchronization, and tools for everyday developer workflows.
+Developer focused on web interfaces, practical developer tools, and offline workflows.
 
-## Engineering focus
+## Current focus
 
-- **Backend foundations:** API integration, authentication boundaries, token lifecycles, and application-owned persistence.
-- **Developer tooling:** compilers, diagnostics, command-line interfaces, and editor integrations.
-- **Web applications:** React interfaces, client and server state, and reusable feature modules.
-- **Offline data:** validated event protocols, duplicate-safe imports, and browser storage.
+- React interfaces, reusable components, and application state.
+- Tools for organizing code and making technical information easier to use.
+- Collaborative, AI-assisted development with clear project roles and progress notes.
 
 ## Selected projects
 
-### [BN Script](https://github.com/sayedrisat/bnscript)
-
-Bangla-inspired language with a lexer, parser, semantic analyzer, JavaScript generator, runtime, CLI, REPL, and VS Code extension.
-
-*JavaScript · Node.js*
-
-### [RST-Auth](https://github.com/sayedrisat/rst-auth)
-
-Authentication primitives with password hashing, signed access tokens, and stateful refresh rotation through an application-supplied store. Alpha library with optional Express and Zod adapters.
-
-*TypeScript · Node.js · jose · bcryptjs*
-
-### [CarrySync Kit](https://github.com/sayedrisat/carrysync-kit)
-
-Application-scoped event exchange over QR, with schema validation, atomic imports, property tests, and an optional IndexedDB adapter. Developer demos; camera scanning and PWA integration remain planned.
-
-*TypeScript · Zod · Dexie · Vitest · Playwright*
-
 ### [SnipDesk](https://github.com/sayedrisat/SnipDesk)
 
-Code notebook with syntax editing, collections, search, local persistence, and scheduled snippet review. [Live demo](https://snipdesk.liveon.workers.dev/).
+A browser-based code notebook with syntax editing, collections, search, local persistence, and scheduled snippet review. [Live demo](https://snipdesk.liveon.workers.dev/).
 
 *React · Vite · Tailwind CSS · Ace*
 
-### [Team Sync](https://github.com/sayedrisat/Team-Sync)
-
-Role-aware workforce-management frontend with session restoration, token refresh, and API-backed employee management. Collaboration modules remain in development.
-
-*React · Redux Toolkit · TanStack Query · Axios*
-
 ### [Security Attack Catalog](https://github.com/sayedrisat/security-attack-catalog)
 
-Searchable security reference with structured JSON entries, catalog validation, contribution guidelines, and automated Pages deployment. [Live site](https://sayedrisat.github.io/security-attack-catalog/).
+A searchable security reference with structured JSON entries, catalog validation, contribution guidelines, and automated Pages deployment. [Live site](https://sayedrisat.github.io/security-attack-catalog/).
 
 *React · Vite · GitHub Actions*
 
-## Technical stack
+## Ongoing hackathon project
 
-- **Languages:** TypeScript, JavaScript, HTML, CSS.
-- **Interfaces:** React, React Native, Expo, Tailwind CSS.
-- **Application state:** Redux Toolkit, TanStack Query, Zustand.
-- **Backend and APIs:** Node.js, Express, REST, jose, bcryptjs, Zod.
-- **Data and storage:** IndexedDB, Dexie, localStorage, Supabase.
-- **Development and verification:** Git, npm workspaces, Vite, GitHub Actions, Node test runner, Vitest, Playwright.
+### [CarrySync Kit](https://github.com/sayedrisat/carrysync-kit)
+
+An **in-progress Kiroween 2026 / Skeleton Crew team project**, developed with **Kiro (AWS) and AI assistance**. It explores offline event exchange over QR between independent web apps.
+
+Team responsibilities are split between the shared synchronization SDK/protocol/storage workstream and frontend application work. Kiro requirements/specification artifacts are preserved in the repository; implementation and verification also include Codex assistance, documented separately in the [development record](https://github.com/sayedrisat/carrysync-kit/blob/main/docs/phase-2-implementation.md).
+
+The SDK and optional IndexedDB adapter have automated tests. App integration, camera scanning, and PWA work remain in progress; physical two-phone transfer is not yet verified.
+
+*TypeScript · React · Zod · Dexie · Vitest · Playwright · Kiro*
+
+## Tools and technologies
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS.
+- **Interfaces:** React, Tailwind CSS, Vite; React Native and Expo in mobile prototypes.
+- **State and storage:** Zustand, localStorage; IndexedDB and Dexie in the hackathon project.
+- **Development and verification:** Git, npm, GitHub Actions, Vitest, Playwright.
+- **AI-assisted workflow:** Kiro (AWS) and Codex, with assistance and project status documented.
 
 ## Open-source contributions
 
@@ -67,7 +53,7 @@ Selected contributions merged into projects maintained by others:
 
 ## Currently exploring
 
-Durable offline synchronization, authentication integration, compiler diagnostics, and native editing tools. I also maintain [Recedit's Linux beta downloads](https://github.com/sayedrisat/recedit); that repository distributes binaries and feedback documentation, while application source remains private.
+Offline workflows, reusable UI patterns, and native editing tools. [Recedit's Linux beta repository](https://github.com/sayedrisat/recedit) distributes binaries and feedback documentation; application source remains private.
 
 ## Connect
 
