@@ -21,11 +21,12 @@ Open to junior full-stack roles, remote Node.js/TypeScript contracts, open-sourc
 
 **Jogaar:** a marketplace prototype for seekers and service providers, built with React, Redux Toolkit, Express, MongoDB, and Mongoose.
 
-- Implemented: registration/login APIs, bcrypt password hashing, JWT access tokens, HttpOnly refresh-token cookies, refresh/logout, and an authenticated user endpoint.
+- Implemented: registration/login APIs, bcrypt password hashing, strict role validation, bearer authentication, reusable server role authorization, and consistent JSON errors.
+- Sessions: HttpOnly refresh cookies, hashed refresh storage, atomic rotation/replay rejection, production cookie settings, and auth request limits.
 - Implemented in the client: shared session state and role-aware route guards/navigation.
-- Still in progress: strict server-side role validation/authorization, auth error handling and security hardening, regression coverage, service listings, bookings, and functional dashboard/profile tools.
+- Still in progress: service listings, bookings, functional dashboard/profile tools, and production deployment acceptance.
 
-Both roles passed an isolated API smoke check. This remains a development project; it is not presented as a finished marketplace or production-ready authentication system.
+Verified locally: 36 server tests, 11 client unit tests, and four Chromium authentication tests against the built client and real API; lint and the production build also pass. GitHub Actions runs the regression checks. This remains a development project; it is not presented as a finished marketplace or production-ready authentication system.
 
 [Repository](https://github.com/sayedrisat/Jogaar) · [Architecture and API](https://github.com/sayedrisat/Jogaar#architecture) · [Current status](https://github.com/sayedrisat/Jogaar/blob/main/docs/STATUS.md)
 
