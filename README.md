@@ -1,60 +1,71 @@
-# Sayed Risat
+# Hi, I'm Sayed Risat
 
-Developer focused on web interfaces, practical developer tools, and offline workflows.
+**Full-Stack Developer | React • Node.js • TypeScript • MongoDB**
 
-## Current focus
+I build practical web interfaces, backend APIs, authentication flows, and developer tools. My current focus is a role-based marketplace, with implementation progress and limitations documented openly.
 
-- React interfaces, reusable components, and application state.
-- Tools for organizing code and making technical information easier to use.
-- Collaborative, AI-assisted development with clear project roles and progress notes.
+Open to junior full-stack roles, remote Node.js/TypeScript contracts, open-source collaboration, and AI coding evaluation opportunities.
 
-## Selected projects
+## Technical skills
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS.
+- **Frontend:** React, Redux Toolkit, React Router, Tailwind CSS, Vite.
+- **Backend:** Node.js, Express, REST APIs, JWT authentication.
+- **Databases:** MongoDB, Mongoose; browser localStorage and IndexedDB.
+- **Testing:** Vitest, Playwright, Node.js test runner.
+- **Developer tools:** Git, GitHub, npm, GitHub Actions.
+
+## Featured projects
+
+### Role-Based Marketplace — In Active Development
+
+**Jogaar:** a marketplace prototype for seekers and service providers, built with React, Redux Toolkit, Express, MongoDB, and Mongoose.
+
+- Implemented: registration/login APIs, bcrypt password hashing, JWT access tokens, HttpOnly refresh-token cookies, refresh/logout, and an authenticated user endpoint.
+- Implemented in the client: shared session state and role-aware route guards/navigation.
+- Still in progress: strict server-side role validation/authorization, auth error handling and security hardening, regression coverage, service listings, bookings, and functional dashboard/profile tools.
+
+Both roles passed an isolated API smoke check. This remains a development project; it is not presented as a finished marketplace or production-ready authentication system.
+
+[Repository](https://github.com/sayedrisat/Jogaar) · [Architecture and API](https://github.com/sayedrisat/Jogaar#architecture) · [Current status](https://github.com/sayedrisat/Jogaar/blob/main/docs/STATUS.md)
 
 ### [SnipDesk](https://github.com/sayedrisat/SnipDesk)
 
-A browser-based code notebook with syntax editing, collections, search, local persistence, and scheduled snippet review. [Live demo](https://snipdesk.liveon.workers.dev/).
+A browser-based code notebook with syntax editing, collections, metadata/code search, local persistence, and scheduled snippet recall. Accounts and cloud synchronization remain planned.
 
-*React · Vite · Tailwind CSS · Ace*
+*React · Vite · Tailwind CSS · Ace · localStorage*
+
+[Live demo](https://snipdesk.liveon.workers.dev/)
 
 ### [Security Attack Catalog](https://github.com/sayedrisat/security-attack-catalog)
 
-A searchable security reference with structured JSON entries, catalog validation, contribution guidelines, and automated Pages deployment. [Live site](https://sayedrisat.github.io/security-attack-catalog/).
+A searchable security reference built from structured JSON categories. It includes catalog validation, contribution guidelines, and a GitHub Actions deployment to Pages. Data validation checks structure; content accuracy still needs source-based review.
 
-*React · Vite · GitHub Actions*
+*React · Vite · Node.js · GitHub Actions*
 
-## Ongoing hackathon project
-
-### [CarrySync Kit](https://github.com/sayedrisat/carrysync-kit)
-
-An **in-progress Kiroween 2026 / Skeleton Crew team project**, developed with **Kiro (AWS) and AI assistance**. It explores offline event exchange over QR between independent web apps.
-
-Team responsibilities are split between the shared synchronization SDK/protocol/storage workstream and frontend application work. Kiro requirements/specification artifacts are preserved in the repository; implementation and verification also include Codex assistance, documented separately in the [development record](https://github.com/sayedrisat/carrysync-kit/blob/main/docs/phase-2-implementation.md).
-
-The SDK and optional IndexedDB adapter have automated tests. App integration, camera scanning, and PWA work remain in progress; physical two-phone transfer is not yet verified.
-
-*TypeScript · React · Zod · Dexie · Vitest · Playwright · Kiro*
-
-## Tools and technologies
-
-- **Languages:** JavaScript, TypeScript, HTML, CSS.
-- **Interfaces:** React, Tailwind CSS, Vite; React Native and Expo in mobile prototypes.
-- **State and storage:** Zustand, localStorage; IndexedDB and Dexie in the hackathon project.
-- **Development and verification:** Git, npm, GitHub Actions, Vitest, Playwright.
-- **AI-assisted workflow:** Kiro (AWS) and Codex, with assistance and project status documented.
+[Live site](https://sayedrisat.github.io/security-attack-catalog/)
 
 ## Open-source contributions
 
-Selected contributions merged into projects maintained by others:
+Verified merged contributions to externally maintained projects:
 
-- **Mantine:** [support Recharts legend positioning](https://github.com/mantinedev/mantine/pull/9297).
-- **react-infinite-scroll-component:** [add accessibility props to the scroll container](https://github.com/ankeetmaini/react-infinite-scroll-component/pull/432).
-- **git-lrc:** [preserve PascalCase comments during streamed review updates](https://github.com/HexmosTech/git-lrc/pull/118) and [clarify Go version guidance](https://github.com/HexmosTech/git-lrc/pull/117).
-- **Roux:** [correct range-input label spacing](https://github.com/thoughtbot/roux/pull/20).
+- **[Mantine #9297](https://github.com/mantinedev/mantine/pull/9297):** corrected chart legend layout for Recharts' `position` prop, with compatibility handling and documentation updates.
+- **[React Infinite Scroll Component #432](https://github.com/ankeetmaini/react-infinite-scroll-component/pull/432):** forwarded standard container attributes for accessibility, including ARIA props and keyboard focus, with regression coverage.
+- **[git-lrc #118](https://github.com/HexmosTech/git-lrc/pull/118):** preserved existing PascalCase review comments during streamed updates, with a regression test.
 
-## Currently exploring
+## Available for remote contract work
 
-Offline workflows, reusable UI patterns, and native editing tools. [Recedit's Linux beta repository](https://github.com/sayedrisat/recedit) distributes binaries and feedback documentation; application source remains private.
+- Backend bug fixing and REST API development.
+- Authentication, authorization, and API integration.
+- React features and application-state integration.
+- Automated tests and reproducible regression checks.
 
-## Connect
+I am also interested in evaluating AI-assisted coding changes through reproducible failures, code review, and testing.
+
+## Ongoing team hackathon project
+
+**[CarrySync Kit](https://github.com/sayedrisat/carrysync-kit)** is an ongoing Kiroween 2026 / Skeleton Crew project for offline QR synchronization. Team work is split between SDK/protocol/storage and frontend application roles, with **Kiro (AWS) and AI assistance**. Camera/PWA implementation also includes Codex assistance; Phase 4 physical-device acceptance remains pending. [Responsibilities and provenance](https://github.com/sayedrisat/carrysync-kit/blob/main/docs/phase-2-implementation.md#preservation-and-authorship).
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/risatdev) · [GitHub](https://github.com/sayedrisat) · [X](https://x.com/sayed_risat)
